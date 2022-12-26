@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A1bdul
-- 🌐 Portfolio link .... abdxl.netlify.app
+- 🌐 Portfolio link .... https://abdxl.netlify.app
 - 👀 I’m interested in ... Python, Django
 - 💞️ I’m looking to collaborate on ... Python web development projects
 - 📫 How to reach me ... email to adaromosu@gmail.com
